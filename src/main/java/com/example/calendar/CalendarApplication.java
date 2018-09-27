@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CalendarApplication {
 
-    private final static Logger LOGGER = LogManager.getLogger(CalendarApplication.class);
+//    private final static Logger LOGGER = LogManager.getLogger(CalendarApplication.class);
 
     public static void main(String[] args) {
         SpringApplication.run(CalendarApplication.class, args);
